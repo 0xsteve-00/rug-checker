@@ -2,6 +2,19 @@
 
 Scan EVM token contracts for rug pull risks, honeypots, and suspicious functions.
 
+## 🎯 Apa Ini?
+
+**Rug Checker** adalah tool untuk scan smart contract token dan deteksi potensi rug pull. Sangat berguna untuk:
+
+- **Pre-Purchase Check** — cek token sebelum beli, hindari scam
+- **New Token Audit** — audit token baru yang baru launch
+- **Trading Bot Safety** — integrasi ke bot trading sebagai safety check
+- **Portfolio Scan** — scan semua token di wallet lo untuk risiko
+- **Research** — analisis contract untuk bug bounty / security research
+
+**Masalah yang diselesaikan:**
+90% token baru adalah scam/rug. Tool ini scan contract dalam 30 detik dan kasih risk score 0-100 supaya lo gak kehilangan uang.
+
 ## Features
 
 - 🔍 **Honeypot Detection** — check if token can be bought/sold
